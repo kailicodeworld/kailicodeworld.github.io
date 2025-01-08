@@ -35,12 +35,12 @@ social_contact:
     github: https://github.com/kailicodeworld      
     email:  kailinwork@outlook.com         
 
-website_count:
-  busuanzi_count:
-    enable: true
-    site_uv: true
-    site_pv: true
-    page_pv: true
+# website_count:
+#   busuanzi_count:
+#     enable: true
+#     site_uv: true
+#     site_pv: true
+#     page_pv: true
 
 search:
   path: search.json
