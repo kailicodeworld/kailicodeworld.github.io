@@ -2,12 +2,9 @@
 title: openproject
 date: 2025-01-09 10:57:57
 tags:
-- ML
-- Trading
-- Stock Investment
+- Open Project
 categories:
-- ML
-- Finance
+- Open-Source
 ---
 To set up OpenProject on an **AWS China Ubuntu VM**, follow these steps, including the configuration of a PostgreSQL database:
 
